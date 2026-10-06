@@ -3,8 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on creating impactful and efficient solutions through code. I am from 🇧🇩Bangladesh. I am now want to contribute in open soure projects. Below is a little bit about me and my work.
 
 ## 🔭 What I'm Currently Working On
-- **[SSC Open MCQ QBank](https://github.com/itsmahibabrar/ssc-open-mcq-bank)**: A open mcq question bank for ssc in json format and it can be help other platforms to get mcq question bank easily.
-- **[BanglaDeen](https://github.com/MahibAbrar222/BanglaDeen)**: A comprehensive static website providing Islamic resources in Bangla.
+- **[SSC Open MCQ QBank](https://github.com/itsmahibabrar/ssc-open-mcq-bank)**: A open mcq question bank for ssc in json format and it can be help other platforms to get mcq question bank easily. [PAUSED]
 
 ## 🌱 What I'm Learning
 - **ReactJS**: I am learning reactjs for website's frontend.
