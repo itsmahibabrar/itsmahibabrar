@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - Contributed to [hmbashar/bangladesh-division-Districts-police-station-condational-form](https://github.com/hmbashar/bangladesh-division-Districts-police-station-condational-form): Add JSON data files for administrative divisions in Bangladesh
 
 ## How to contact
-- You can contact with me via my email [mahibabrar123@gmail.com](mailto:mahibabrar123@gmail.com) or via discord (Id: `mahib_83323`) or
+- You can contact with me via my email [itsmahib.abrar@gmail.com](mailto:itsmahib.abrar@gmail.com) or via discord (Id: `mahib_83323`) or
 - <a href="https://www.linkedin.com/in/itsmahibabrar">
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahib's LinkedIn"/>
 </a>
