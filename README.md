@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - **Discord**: (Id: `mahib_83323`)
 
 ## 📊 GitHub Stats
-![Mahib's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahibAbrar222&show_icons=true&theme=dark)
-![Trophy](https://github-profile-trophy.vercel.app/?username=MahibAbrar222)
-![Mahib's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=MahibAbrar222)
+![Mahib's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmahibabrar&show_icons=true&theme=dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=itsmahibabrar)
+![Mahib's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=itsmahibabrar)
 
 
 ## 🛠️ Technologies & Tools
